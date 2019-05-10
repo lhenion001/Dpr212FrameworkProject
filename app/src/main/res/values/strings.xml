@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PassBook</string>
+    <string name="title_item_detail">Edit Stored Password</string>
+</resources>
