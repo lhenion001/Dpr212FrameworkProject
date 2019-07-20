@@ -14,11 +14,3 @@ you need to login to your college website to access any homework assignments, da
  <b>   https://developer.android.com/studio/install#windows </b>
 * You will need an Android device and Android development environment with <b>minimum</b> API 21.
 * Android Studio 3.2 or later.
-
-`int x = 5;`
-``` java
-public class Thing
-{
- public String Greeting;
-}
-```
