@@ -16,3 +16,9 @@ you need to login to your college website to access any homework assignments, da
 * Android Studio 3.2 or later.
 
 `int x = 5;`
+``` java
+public class Thing
+{
+ public String Greeting;
+}
+```
